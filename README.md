@@ -1,17 +1,57 @@
-<header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+# GitHub Skills Introduction
 
-# Introduction to GitHub
+This repository contains learning materials and hands-on exercises to teach fundamental GitHub concepts and workflows.
 
-_Get started using GitHub in less than an hour._
+## Why Learn GitHub?
 
-</header>
+GitHub is one of the most widely used platforms for software development and collaboration. By understanding basic tools like repositories, branches, commits and pull requests, you'll be able to:
+
+- Contribute to open source projects 
+- Manage personal and professional codebases
+- Develop software efficiently within a team
+- Store and share your work with others
+
+## Course Overview
+
+The course is delivered through guided instructions and explanations in the `README.md` file. Key topics include:
+
+- Version control and Git/GitHub basics
+- Repository structure and collaboration model  
+- The development workflow of branching, committing and pull requests
+- Finding and contributing to open source projects
+- Additional learning resources for diving deeper
+
+## Repository Contents
+
+- `README.md` - Main course material and activity instructions
+- `commands` folder - Examples of common Git commands  
+- `images` folder - Images used for the course
+- Metadata files (`.gitignore`, `LICENSE`)
+## Commands Folder
+
+The `commands` folder contains example files to demonstrate GitHub CLI (command line) commands:
+
+- `add.md` - Demonstrates `git add` to stage changes
+- `commit.md` - Demonstrates `git commit` to commit changes
+- `push.md` - Demonstrates `git push` to push commits to a remote repository  
+- `pull.md` - Demonstrates `git pull` to pull changes from a remote repository
+
+
+## Completing Exercises
+
+Follow the steps in `README.md` to practice setting up a local clone, forking, branching and contributing changes through pull requests. At the specified point:
+
+1. Checkout a new branch for your changes (e.g. `your-name`)
+2. Modify a file like `README.md` and commit 
+3. Open a pull request to propose and discuss your changes
+4. Merge the pull request to complete the exercise
+
+## Getting Help
+
+If you have any issues, the course facilitators monitor the discussion section. You can also reference GitHub's extensive documentation or post on StackOverflow. 
+
+We welcome feedback on how to improve the course experience. Have fun and let us know if you have any other questions!
 
 <!--
   <<< Author notes: Finish >>>
